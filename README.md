@@ -1,4 +1,4 @@
-# WeCare Website
+# WeCare Website (Frontend)
 
 ![WeCare Logo](images/logo.jpeg)
 
