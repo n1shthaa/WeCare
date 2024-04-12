@@ -1,6 +1,6 @@
 # WeCare Website
 
-![WeCare Logo](images/logo.png)
+![WeCare Logo](images/logo.jpeg)
 
 Welcome to the WeCare website repository! WeCare is a platform dedicated to providing high-quality mental healthcare services. This repository contains the codebase for the WeCare website.
 
